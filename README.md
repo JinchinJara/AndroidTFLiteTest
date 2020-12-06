@@ -1,5 +1,4 @@
-# AndroidTFLite
- Running a deep convolutional neural network in Android using TensorFlow Lite
+
 # 스타트 4팀 진친자라
 
 # TEAM 진친자라 유튜브 채널
@@ -57,4 +56,5 @@ https://youtu.be/Q99i5ZXCJCo
 # 5 License
 
 구글 텐서플로우
-
+### AndroidTFLite
+ Running a deep convolutional neural network in Android using TensorFlow Lite
